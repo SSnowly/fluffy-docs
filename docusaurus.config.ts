@@ -10,10 +10,10 @@ const config: Config = {
   favicon: 'img/logo.svg',
 
   // Set the production url of your site here
-  url: 'https://SSnowly.github.io/',
+  url: 'https://docs.fluffymods.org/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/fluffy-docs/',
+  baseUrl: '/',
   
   // GitHub pages deployment config.
   organizationName: 'fluffymods',
